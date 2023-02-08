@@ -1,8 +1,9 @@
-E' possibile scaricare la documentazione del progetto e relativo artefatto software al segunte link Mega. 
+E' possibile scaricare la documentazione del progetto,relativo artefatto software e un video che spiega alcune funzionalità princiali dell'e-commerce
+al link Mega riportato alla fine del file. 
 Il seguente e-commerce è stato realiazzato per l'esame di Tecnologia Software per il Web del secondo anno del Corso di Laurea in Informatica - Classe 3 Resto 2 
 presso l'Università degli Studi di Salerno. Il sito tratta la commercializzazione online delle componenti dell'angolo notte, andando a simulare la relativa vendita 
 ai visitatori e le relative funzionalità di riepilogo per l'amministratore del sito web. 
-Link: https://mega.nz/file/XzoRzJQR#jIihw88b0Ce-vzYK-0qw4fJHLFNZhbO5LbgR8wH-rI0
+Link: https://mega.nz/file/GyxSBQaB#GS5VAPz9kX0gBGtWoR6PsFKElhOPQDzRpvk_iBtRtYo
 
 Gli autori dell'artefatto software sono: 
 Francesco Alfonso Barlotti - numero matricola: 0512110169 
