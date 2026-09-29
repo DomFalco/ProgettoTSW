@@ -74,7 +74,7 @@ ProgettoTSW/
 ├── pom.xml                   # Configurazione Maven
 ├── Pharmatex.sql             # Script di creazione database
 └── Documentazione Sito.pdf   # Documentazione del progetto
-
+```
 
 ## 📄 Documentazione
 La documentazione completa, l'artefatto software e un video dimostrativo sono disponibili al seguente link:
