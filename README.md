@@ -6,6 +6,17 @@
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)](https://www.mysql.com/)
 [![Tomcat](https://img.shields.io/badge/Tomcat-10.0-yellow)](https://tomcat.apache.org/)
 
+## 📋 Indice
+- [Descrizione](#-descrizione)
+- [Caratteristiche principali](#-caratteristiche-principali)
+- [Tecnologie utilizzate](#️-tecnologie-utilizzate)
+- [Prerequisiti](#-prerequisiti)
+- [Installazione](#-installazione)
+- [Struttura del progetto](#-struttura-del-progetto)
+- [Documentazione](#-documentazione)
+- [Autori](#-autori)
+- [Licenza](#-licenza)
+
 ## 📋 Descrizione
 ProgettoTSW è un'applicazione e-commerce sviluppata per l'esame di **Tecnologia Software per il Web** del secondo anno del Corso di Laurea in Informatica - Classe 3 Resto 2 presso l'**Università degli Studi di Salerno**.
 
