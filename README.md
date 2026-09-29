@@ -59,6 +59,7 @@ Avviare Tomcat e accedere all'applicazione all'indirizzo:
 `http://localhost:8080/Progetto`
 
 ## 📁 Struttura del progetto
+```text
 ProgettoTSW/
 ├── src/
 │   └── main/
