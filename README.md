@@ -39,24 +39,28 @@ Il sito simula la commercializzazione online delle componenti dell'angolo notte,
 
 ## 🚀 Installazione
 
-### 1. Clonare il repository
+**1. Clonare il repository**
+
 Aprire il terminale ed eseguire i seguenti comandi:
-`git clone https://github.com/DomFalco/ProgettoTSW.git`
-`cd ProgettoTSW`
+- `git clone https://github.com/DomFalco/ProgettoTSW.git`
+- `cd ProgettoTSW`
 
-### 2. Configurare il database
+**2. Configurare il database**
+
 Importare il file `Pharmatex.sql` nel proprio server MySQL:
-`mysql -u root -p < Pharmatex.sql`
-Modificare le credenziali del database nel file di configurazione (es. `src/main/resources/db.properties` o `context.xml`).
+- `mysql -u root -p < Pharmatex.sql`
 
-### 3. Compilare il progetto
+Modificare le credenziali del database in `src/main/resources/db.properties` o `context.xml`.
+
+**3. Compilare il progetto**
+
 Eseguire il comando Maven:
-`mvn clean package`
+- `mvn clean package`
 
-### 4. Deploy su Tomcat
-Copiare il file `target/Progetto.war` nella directory `webapps` di Tomcat.
-Avviare Tomcat e accedere all'applicazione all'indirizzo:
-`http://localhost:8080/Progetto`
+**4. Deploy su Tomcat**
+
+- Copiare il file `target/Progetto.war` nella cartella `webapps` di Tomcat.
+- Avviare Tomcat e visitare: `http://localhost:8080/Progetto`
 
 ## 📁 Struttura del progetto
 ```text
